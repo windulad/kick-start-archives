@@ -1,0 +1,3 @@
+C:/Users/chari/Documents/Hackathons/Kick Start/SpeedTyping/cmake-build-debug/CMakeFiles/SpeedTyping.dir
+C:/Users/chari/Documents/Hackathons/Kick Start/SpeedTyping/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chari/Documents/Hackathons/Kick Start/SpeedTyping/cmake-build-debug/CMakeFiles/rebuild_cache.dir
