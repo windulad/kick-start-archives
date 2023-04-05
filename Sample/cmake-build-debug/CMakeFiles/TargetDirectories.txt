@@ -1,3 +1,3 @@
-C:/Users/chari/Documents/Hackathons/Kick Start/Sample/cmake-build-debug/CMakeFiles/Sample.dir
-C:/Users/chari/Documents/Hackathons/Kick Start/Sample/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/chari/Documents/Hackathons/Kick Start/Sample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/chari/Documents/Hackathons/kick-start-archives/Sample/cmake-build-debug/CMakeFiles/Sample.dir
+C:/Users/chari/Documents/Hackathons/kick-start-archives/Sample/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chari/Documents/Hackathons/kick-start-archives/Sample/cmake-build-debug/CMakeFiles/rebuild_cache.dir

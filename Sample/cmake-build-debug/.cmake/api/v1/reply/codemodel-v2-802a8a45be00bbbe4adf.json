@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/chari/Documents/Hackathons/Kick Start/Sample/cmake-build-debug",
-		"source" : "C:/Users/chari/Documents/Hackathons/Kick Start/Sample"
+		"build" : "C:/Users/chari/Documents/Hackathons/kick-start-archives/Sample/cmake-build-debug",
+		"source" : "C:/Users/chari/Documents/Hackathons/kick-start-archives/Sample"
 	},
 	"version" : 
 	{

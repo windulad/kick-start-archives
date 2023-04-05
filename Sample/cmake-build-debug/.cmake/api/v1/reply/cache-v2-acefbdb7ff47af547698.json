@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/chari/Documents/Hackathons/Kick Start/SpeedTyping/cmake-build-debug"
+			"value" : "c:/Users/chari/Documents/Hackathons/kick-start-archives/Sample/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/chari/Documents/Hackathons/Kick Start/SpeedTyping/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/chari/Documents/Hackathons/kick-start-archives/Sample/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/chari/Documents/Hackathons/Kick Start/SpeedTyping"
+			"value" : "C:/Users/chari/Documents/Hackathons/kick-start-archives/Sample"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/SpeedTyping"
+			"value" : "C:/Program Files (x86)/Sample"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "SpeedTyping"
+			"value" : "Sample"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1254,7 +1254,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "SpeedTyping_BINARY_DIR",
+			"name" : "Sample_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1263,10 +1263,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/chari/Documents/Hackathons/Kick Start/SpeedTyping/cmake-build-debug"
+			"value" : "C:/Users/chari/Documents/Hackathons/kick-start-archives/Sample/cmake-build-debug"
 		},
 		{
-			"name" : "SpeedTyping_IS_TOP_LEVEL",
+			"name" : "Sample_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1278,7 +1278,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "SpeedTyping_SOURCE_DIR",
+			"name" : "Sample_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1287,7 +1287,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/chari/Documents/Hackathons/Kick Start/SpeedTyping"
+			"value" : "C:/Users/chari/Documents/Hackathons/kick-start-archives/Sample"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

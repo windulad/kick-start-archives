@@ -6,13 +6,13 @@ int main() {
     int t, x;
     int delete_times = 0;
     string provide_str, type_str;
-    long long provide_size, type_size;
+    int provide_size, type_size;
     cin >> t;
     for(x = 1; x <= t; x++){
         cin >> provide_str >> type_str;
 
-        provide_size = provide_str.size();
-        type_size = type_str.size();
+        provide_size = (int)(provide_str).size();
+        type_size = (int)(type_str).size();
 
         if(type_size > provide_size){
             //traverse from right to left type_str, start from type_str[0]
